@@ -16,7 +16,7 @@ import java.util.List;
  * los n�meros en el tablero queden ordenados (como muestra la figura) y la
  * casilla desocupada quede en la posici�n 4,4.
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 public class Main {
